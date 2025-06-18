@@ -1,0 +1,11 @@
+*{
+    font-family: "Quicksand", sans-serif;
+
+}
+.people{
+    color:red
+}
+.carousel-inner{
+    height: auto;
+    width: auto;
+}
